@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ CityBuild<br>📚 Team suchend<br>🎯 Modern<br>🎲Self coded</p>
+<p align="left">✨ CityBuild<br>📚 Team suchend<br>🎯 Modern<br>🎲 Self coded</p>
 
 ###
 
