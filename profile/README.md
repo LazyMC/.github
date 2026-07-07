@@ -33,7 +33,7 @@ LazyMC v2 soll kein gewöhnlicher CityBuild-Server werden. Unser Fokus liegt auf
 
 ###
 
-<h2 align="left">Technologien</h2>
+<h2 align="left">Sprachen</h2>
 
 ###
 
